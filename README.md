@@ -100,5 +100,3 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
 - Nếu bạn không muốn dùng Redis, chỉ cần chạy `API` và `UI` như phần "Chạy thủ công".
 - Nếu gặp lỗi import, kiểm tra đã kích hoạt `.venv` và đã `pip install` các gói cần thiết.
 
-**Muốn tôi làm tiếp?**
-- Tôi có thể tạo `requirements.txt` chính xác từ imports trong repo, hoặc giúp bạn chạy thử các lệnh. Bạn muốn tôi làm gì tiếp?
